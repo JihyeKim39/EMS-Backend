@@ -5,8 +5,8 @@
 프론트엔드와 백엔드를 분리하여 개발하였으며, Angular와 Spring Boot를 기반으로 하고, MySQL 데이터베이스와 연동되어 있습니다.
 
 🔗 GitHub Links
-🔸 EMS Frontend (Angular)
-🔹 EMS Backend (Spring Boot)
+- [EMS-Frontend](https://github.com/JihyeKim39/EMS-Frontend)  
+- [EMS-Backend](https://github.com/JihyeKim39/EMS-Backend)
 
 ## 🔧 기술 스택
 
