@@ -50,7 +50,7 @@ spring.datasource.password=비밀번호
 ./gradlew bootRun
 ```
 
-> 백엔드는 기본적으로 `localhost:8080` 에서 실행됩니다.
+> 백엔드는 기본적으로 `localhost:8081` 에서 실행됩니다.
 
 ### Frontend 실행
 
